@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I'm Ujjaval
 
-<!--
-**demo-09/demo-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 dev in progress  
+⚡ learning by building real stuff
 
-Here are some ideas to get you started:
+### 🛠️ Tech I Use
+- Angular
+- TypeScript
+- C#
+- jQuery
+- HTML • CSS • JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing
+- building web apps
+- exploring full-stack development
+- improving logic & clean UI
+
+### 🌱 Current Focus
+Angular • TypeScript • C#
+
+📫 let’s connect & build something cool

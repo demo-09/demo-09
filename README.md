@@ -40,7 +40,7 @@
 
 | Project | Tech Stack | Live Demo |
 |--------|------------|----------|
-| **🌾 FarmEase** | Angular • ASP.NET Core • SQL Server | [![Netlify](https://img.shields.io/badge/Live-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://farmease-24.netlify.app) |
+| **🌾 FarmEase** | Angular • ASP.NET Core • SQL Server |  [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://front-end-farm-ease.vercel.app/) |
 | **💬 Chatify** | React • Node.js • Socket.io • MongoDB | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chatify-frontend-sigma.vercel.app/) |
 | **🔲 Dashboard** | Node.js • Express • EJS • MySQL | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dash-board-git-main-ujjaval-karangiya-s-projects.vercel.app/) |
 | **📰 Aapki News** | React • News API | [![Vercel](https://img.shields.io/badge/Live-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aapki-news.vercel.app/) |
